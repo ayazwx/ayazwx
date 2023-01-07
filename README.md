@@ -12,9 +12,9 @@
 <a href="https://www.linkedin.com/in/ayazvefa" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Vefa Ayaz"/></a>
 <a href="https://ayazwx.github.io" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" alt="Vefa Ayaz" height="50" width="50" /></a>
 </p>
-<h2> 💻Tech Stack:</h2>
+<img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+<h1> 💻Tech Stack:</h1>
 <p>
-
 <a href="React"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
 <a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
 <a href="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
