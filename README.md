@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ayaz</h1>
+<h1 align="center">Hi 👋, I'm Vefa Ayaz</h1>
 <h3 align="center">I'm a Computer Engineer</h3>
-
 
 
 - 🌱 I’m currently learning **React and Django**
 
 ![giphy](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/18291291/ayaz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Vefa Ayaz" height="40" width="40" /></a>
-<a href="https://twitter.com/ayazwx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="Ayaz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayazvefa" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" alt="Vefa Ayaz" height="30" width="40" /></a>
-<a href="https://ayazwx.github.io" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" alt="Vefa Ayaz" height="40" width="40" /></a>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://stackoverflow.com/users/18291291/ayaz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Vefa Ayaz"/></a>
+<a href="https://twitter.com/ayazwx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Vefa Ayaz"/></a>
+<a href="https://www.linkedin.com/in/ayazvefa" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Vefa Ayaz"/></a>
+<a href="https://ayazwx.github.io" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" alt="Vefa Ayaz" height="50" width="50" /></a>
 </p>
-
 <h2> 💻Tech Stack:</h2>
-<p align="left">
+<p>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="ReactJS" width="42" height="40"/> </a>
-<a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-
+<a href="React"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+<a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
+<a href="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+<a href="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+<a href="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+<a href="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+<a href="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+<a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+<a href="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></a>
+<a href="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+<a href="Html"><img src="https://skillicons.dev/icons?i=html" alt="Html"/></a>
+<a href="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"/></a>
+<a href="Vim"><img src="https://skillicons.dev/icons?i=vim" alt="Vim"/></a>
+<a href="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+<a href="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake"/></a>
+<a href="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+<a href="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+<a href="VsCode"><img src="https://skillicons.dev/icons?i=vscode" alt="VsCode"/></a>
 </p>
   
 # 📊GitHub Stats :
