@@ -16,13 +16,14 @@
 <h1> 💻Tech Stack:</h1>
 <p>
 <a href="React"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
-<a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
-<a href="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
 <a href="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+<a href="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="Typescript" /></a>
+<a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
+<a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+<a href="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+<a href="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
 <a href="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-<a href="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
-<a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
 <a href="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></a>
 <a href="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
 <a href="Html"><img src="https://skillicons.dev/icons?i=html" alt="Html"/></a>
