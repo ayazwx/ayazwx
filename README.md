@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React.js and Node.js**
 - **I LOVE REACT.js** :blue_heart:
 
-![giphy](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)
+![giphy](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)![giphy](images/react.gif)
 <h3>🌐 Connect with me:</h3>
 <p>
 <a href="https://stackoverflow.com/users/18291291/ayaz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Vefa Ayaz"/></a>
