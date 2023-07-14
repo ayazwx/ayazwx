@@ -21,6 +21,8 @@
 <a href="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
 <a href="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
 <a href="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+<a href="Next"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next" /></a>
+<a href="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 <a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
 <a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
 <a href="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
