@@ -49,7 +49,7 @@
 ---
 <details> 
   <summary>:zap: GitHub info </summary>
-  ![GitHub metrics](https://metrics.lecoq.io/ayazwx)
+![GitHub metrics](https://metrics.lecoq.io/ayazwx)
 </details>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ayazwx&icon=5&color=6)](https://visitcount.itsvg.in) -->
