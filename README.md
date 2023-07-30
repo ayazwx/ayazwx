@@ -47,12 +47,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayazwx&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazwx&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ---
-<details> 
-  <summary>:zap: GitHub info </summary>
-</details>
-![GitHub metrics](https://metrics.lecoq.io/ayazwx)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ayazwx&icon=5&color=6)](https://visitcount.itsvg.in) -->
+<details> 
+  <summary>:zap: GitHub Metrics </summary>
+
+![GitHub metrics](https://metrics.lecoq.io/ayazwx)
+</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazwx&label=Profile%20views&color=0e75b6&style=flat" alt="ayazwx" /> </p>
 
