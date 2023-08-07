@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Front-End Developer</h3>
 
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js and Three.js**
 - **I LOVE REACT.js** :blue_heart:
 
 <img src="images/react.gif" alt="react gif" width="300"/>
@@ -22,6 +22,7 @@
 <a href="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
 <a href="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
 <a href="Next"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next" /></a>
+<a href="Threejs"><img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" /></a>
 <a href="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 <a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
 <a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
