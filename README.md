@@ -9,7 +9,7 @@
 <h3>🌐 Connect with me:</h3>
 <p>
 <a href="https://stackoverflow.com/users/18291291/ayaz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Vefa Ayaz"/></a>
-<a href="https://instagram.com/ayazwx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Vefa Ayaz"/></a>
+<a href="https://instagram.com/_ayazwx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Vefa Ayaz"/></a>
 <a href="https://twitter.com/ayazwx" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Vefa Ayaz"/></a>
 <a href="https://www.linkedin.com/in/ayazvefa" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Vefa Ayaz"/></a>
 <a href="https://ayazvefa.dev" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" alt="Vefa Ayaz" height="50" width="50" /></a>
